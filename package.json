@@ -1,0 +1,9 @@
+{
+  "name": "jet-bridge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jet Bridge landing — HTML5, CSS3, Vanilla JS and jQuery",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
